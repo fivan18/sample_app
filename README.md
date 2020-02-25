@@ -1,24 +1,38 @@
-# README
+# Sendin Params to RestClient
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Interact with a Rails Application from RestClient
 
-Things you may want to cover:
+<p align="center">
+    <img src="restclient.jpg">
+</p>
 
-* Ruby version
+This project was meant to build a simple app and then a simple script which uses the RestClient gem to send some requests and examine the server output
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby on Rails
 
-* Database creation
 
-* Database initialization
+## Authors
 
-* How to run the test suite
+👤 **Ivan Ulises Guzman Sanchez**
 
-* Services (job queues, cache servers, search engines, etc.)
+- Github: [@fivan18](https://github.com/fivan18)
+- Twitter: [@fivanunam](https://twitter.com/fivanunam)
+- Linkedin: [fivan](https://www.linkedin.com/in/fivan)
 
-* Deployment instructions
+👤 **Remy Certil**
 
-* ...
+- Github: [@certilremy](https://github.com/certilremy)
+- Twitter: [@certilremy](https://twitter.com/certilremy)
+- Linkedin: [certilremy](https://linkedin.com/in/certilremy)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/fivan18/sending-params-rest-client/issues).
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
